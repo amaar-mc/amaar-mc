@@ -39,11 +39,6 @@
   - Supabase / Firebase
   - React
 
-
-## My Stats
-
-![DragonXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonXDev\&rank_icon=github&theme=transparent)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Consistency+is+key;Stay+focused;Keep+the+drive&duration=8000&color=FFFF00)](https://git.io/typing-svg)
 - - - -
 “Java is to Javascript what car is to carpet”
