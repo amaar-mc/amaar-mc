@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="100%" alt="Amaar Chughtai — optimizer research, agent tooling, and product engineering" src="./assets/profile-hero.png">
+  <picture>
+    <img width="100%" style="border-radius: 18px;" alt="Amaar Chughtai — optimizer research, agent tooling, and product engineering" src="./assets/profile-hero.png">
+  </picture>
 </p>
 
 <p align="center">
