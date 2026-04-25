@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img alt="Amaar Chughtai — AI systems, optimizer research, and developer tools" src="./assets/profile-hero-light.svg">
-</picture>
+<p align="center">
+  <img width="100%" alt="Amaar Chughtai — optimizer research, agent tooling, and product engineering" src="./assets/profile-hero.png">
+</p>
 
 <p align="center">
   <a href="https://amaarmc.org">website</a>
@@ -57,4 +55,3 @@ Keep the interface simple enough to survive real use.
 ## Contact
 
 The best starting point is [amaarmc.org](https://amaarmc.org). For code, research, and open-source work, the relevant projects are linked above.
-
