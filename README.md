@@ -160,9 +160,6 @@ Current anchor work:
 
 ## Operating Principle
 
-```txt
-Research what matters.
-Build the sharp prototype.
-Measure it honestly.
-Ship the parts that survive contact with reality.
-```
+<p align="center">
+  <img width="100%" alt="Operating principle: research to prototype to measure to ship" src="./assets/operating-principle.svg">
+</p>
