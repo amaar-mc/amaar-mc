@@ -158,8 +158,6 @@ Current anchor work:
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="34" alt="Docker">
 </p>
 
-## Operating Principle
-
 <p align="center">
   <img width="100%" alt="Operating principle: research to prototype to measure to ship" src="./assets/operating-principle.svg">
 </p>
