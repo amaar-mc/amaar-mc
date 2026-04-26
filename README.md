@@ -58,9 +58,9 @@ Current anchor work:
         <img src="https://img.shields.io/badge/macOS-beta-64748b?style=flat-square" alt="macOS beta">
       </p>
       <p>
-        <img src="https://cdn.simpleicons.org/apple/111111" width="26" alt="Apple">
-        <img src="https://cdn.simpleicons.org/openai/111111" width="26" alt="OpenAI">
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="26" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Apple-111111?style=flat-square&logo=apple&logoColor=white" alt="Apple">
+        <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
     </td>
   </tr>
@@ -77,8 +77,8 @@ Current anchor work:
         <img src="https://img.shields.io/badge/TinyGPT-sweeps-7c3aed?style=flat-square" alt="TinyGPT sweeps">
       </p>
       <p>
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="26" alt="PyTorch">
-        <img src="https://cdn.simpleicons.org/github/181717" width="26" alt="GitHub">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -95,9 +95,9 @@ Current anchor work:
         <img src="https://img.shields.io/badge/MCP-local%20context-2563eb?style=flat-square" alt="MCP local context">
       </p>
       <p>
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="26" alt="TypeScript">
-        <img src="https://cdn.simpleicons.org/bun/000000" width="26" alt="Bun">
-        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="26" alt="Shell">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=white" alt="Bun">
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
       </p>
     </td>
   </tr>
@@ -127,9 +127,9 @@ Current anchor work:
         <img src="https://img.shields.io/badge/product-strategy-7c3aed?style=flat-square" alt="product strategy">
       </p>
       <p>
-        <img src="https://cdn.simpleicons.org/react/61DAFB" width="26" alt="React">
-        <img src="https://cdn.simpleicons.org/nextdotjs/111111" width="26" alt="Next.js">
-        <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="26" alt="Supabase">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
       </p>
     </td>
   </tr>
@@ -138,7 +138,18 @@ Current anchor work:
 ## Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,ts,js,rust,cpp,java,postgres,nextjs,svelte,vue,supabase,git,github,docker&perline=9" alt="Core toolkit">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue">
+  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ## Operating Principle
